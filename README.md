@@ -33,7 +33,7 @@ canvas
     }
 ```
 
-        Classic-Breakout-Remake/screenshots/game.PNG
+        
       
 # Screenshots
 ![game.PNG](https://raw.githubusercontent.com/benjamminn/Classic-Breakout-Remake/master/screenshots/game.PNG)
