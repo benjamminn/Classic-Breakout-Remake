@@ -11,7 +11,8 @@ h1 {
    }
 
 
-// This defines the  background if the canvas for the game. 
+/* This defines the  background if the canvas for the game. */
+canvas
     {
     
     background: #000000;
@@ -19,7 +20,7 @@ h1 {
     }
 
 
-// Contrains the body and 50em.
+/* Contrains the body and 50em.*/
 body 
     {
     background-color: dimgray;
@@ -34,7 +35,7 @@ p
     color: lightgreen;
     }
 
-// Links at the bottom of the page.
+/* Links at the bottom of the page.*/
 .links
    { 
    font-size: small;
@@ -47,7 +48,7 @@ p
     }      
     
 
-// Copyright at the bottom of the page.
+/* Copyright at the bottom of the page.*/
 .bottom
        { 
        bottom: 4px;
