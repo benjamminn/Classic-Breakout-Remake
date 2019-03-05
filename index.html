@@ -1,0 +1,42 @@
+<!--
+File index.html
+Author(s): Benjamin Gordon
+Date: 3/4/2019
+Purpose: The main page for the  Classic Breakout Game Remake website.
+-->
+
+<!doctype html>
+
+<html>
+<head>
+<!-- Calls CSS stylesheet and header. -->
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+    
+    <h1 style= "background: #808080; padding: 10px 20px;  border-radius: 25px;"><center>Classic Breakout Remake</center></h1>
+</head>
+    
+    
+    
+<body style="max-width: 65em; margin: 0 auto;"  onload="initialize()">
+<!-- Body contained by 65em wide box that holds the text and canvas also calls breakout JS file for canvas.-->
+    
+    
+    <center>
+    <p style = "background: #808080; padding: 10px 20px;  border-radius: 25px;" >
+        This game is inspired by the classic game breakout.  Controls with left and right arrows. Enjoy! <br><br>
+       <canvas id="screen" width="960" height="640"></canvas>
+    </p>
+    </center>
+    
+    <script src="breakout.js"></script>
+    
+</body>
+    
+  
+<!-- Bottom links and Copyright-->
+<div class="links"><center><a href="https://www.linkedin.com/in/benjamin-gordon-a68552177/">Linked In</a>     <a href="https://github.com/benjamminn">Github</a>     <a href="about.html">About</a> </center></div>
+<div class="bottom"><center>2019 Benjamin Gordon.</center></div>
+    
+    
+</html>

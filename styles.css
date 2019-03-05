@@ -1,0 +1,59 @@
+/*
+File styles.css
+Author(s): Benjamin Gordon
+Date: 3/4/2019
+Purpose: The css stylessheet for the  Classic Breakout Game Remake website.
+*/
+
+h1 {
+    color: lightgreen;
+    font-family:  Lucida Console;
+   }
+
+
+// This defines the  background if the canvas for the game. 
+    {
+    
+    background: #000000;
+    
+    }
+
+
+// Contrains the body and 50em.
+body 
+    {
+    background-color: dimgray;
+    font-family:  Lucida Console;
+    padding: 4em 1em;
+    max-width: 50em; 
+    margin: 0 auto;
+    }
+
+p 
+    {
+    color: lightgreen;
+    }
+
+// Links at the bottom of the page.
+.links
+   { 
+   font-size: small;
+   font-family: Lucida Console;
+   color: lightgreen; 
+   margin-top: 2.5em;
+   margin-bottom: 1.5em;
+   "max-width: 50em; 
+    margin: 0 auto;"
+    }      
+    
+
+// Copyright at the bottom of the page.
+.bottom
+       { 
+       bottom: 4px;
+       font-size: small;
+       font-family: Lucida Console;
+       color: lightgreen; 
+       max-width: 50em; 
+       margin: 0 auto;
+       }  
