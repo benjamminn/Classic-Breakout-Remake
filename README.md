@@ -11,6 +11,7 @@ A fan remake of the classic breakout game.
 
 https://benjamminn.github.io/Classic-Breakout-Remake/
 
+
 # Site Integration
 
 Add the breakout.js file then add the following code.
@@ -32,4 +33,8 @@ canvas
     }
 ```
 
+        Classic-Breakout-Remake/screenshots/game.PNG
+      
+# Screenshots
+![game.PNG](https://raw.githubusercontent.com/benjamminn/Classic-Breakout-Remake/master/screenshots/game.PNG)
 
